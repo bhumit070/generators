@@ -2,7 +2,7 @@
 	"name": "template-generators",
 	"displayName": "template-generators",
 	"description": "This will help you generate templates for your projects",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
