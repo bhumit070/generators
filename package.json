@@ -6,6 +6,7 @@
 	"engines": {
 		"vscode": "^1.68.0"
 	},
+	"icon": "images/generator.jpeg",
 	"license": "MIT",
 	"publisher": "BhoomitGanatra",
 	"categories": [
