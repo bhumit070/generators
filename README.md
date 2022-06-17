@@ -7,3 +7,4 @@
 	- Now select your project and os which you are working on
 	- and then click on ok in few seconds you will have .gitignore generated in your project
 	- if .gitignore already exists it will append items in it
+	- We are using [TopTal](https://www.toptal.com/developers/gitignore/)'s api to generate .gitignore
