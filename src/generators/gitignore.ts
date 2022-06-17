@@ -17,7 +17,7 @@ function generatePicker(items: []) {
     picker.show();
 
     picker.onDidAccept(async () => {
-        if (picker.selectedItems.length) {
+        if (!picker.selectedItems.length) {
             showPrompt(
                 PromptType.info,
                 'Please select one option to continue...',
