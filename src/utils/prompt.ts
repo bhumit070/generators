@@ -10,13 +10,12 @@ export enum PromptType {
 export function showPrompt(promptType: PromptType, message: string) {
     switch (promptType) {
         case PromptType.info:
+        case PromptType.success:
             vscode.window.showInformationMessage(message);
             break;
         case PromptType.warn:
             vscode.window.showWarningMessage(message);
             break;
-        case PromptType.info:
-            vscode.window.showInformationMessage(message);
             break;
         case PromptType.error:
             vscode.window.showErrorMessage(message);

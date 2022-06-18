@@ -1,0 +1,1628 @@
+[
+	{
+		"label": "d"
+	},
+	{
+		"label": "c"
+	},
+	{
+		"label": "r"
+	},
+	{
+		"label": "1c"
+	},
+	{
+		"label": "dm"
+	},
+	{
+		"label": "go"
+	},
+	{
+		"label": "vs"
+	},
+	{
+		"label": "qt"
+	},
+	{
+		"label": "al"
+	},
+	{
+		"label": "ada"
+	},
+	{
+		"label": "svn"
+	},
+	{
+		"label": "sas"
+	},
+	{
+		"label": "sam"
+	},
+	{
+		"label": "coq"
+	},
+	{
+		"label": "yii"
+	},
+	{
+		"label": "cvs"
+	},
+	{
+		"label": "vue"
+	},
+	{
+		"label": "ros"
+	},
+	{
+		"label": "sbt"
+	},
+	{
+		"label": "waf"
+	},
+	{
+		"label": "vim"
+	},
+	{
+		"label": "red"
+	},
+	{
+		"label": "y86"
+	},
+	{
+		"label": "elm"
+	},
+	{
+		"label": "zsh"
+	},
+	{
+		"label": "qml"
+	},
+	{
+		"label": "gis"
+	},
+	{
+		"label": "ssh"
+	},
+	{
+		"label": "web"
+	},
+	{
+		"label": "lyx"
+	},
+	{
+		"label": "git"
+	},
+	{
+		"label": "zig"
+	},
+	{
+		"label": "gpg"
+	},
+	{
+		"label": "ate"
+	},
+	{
+		"label": "osx"
+	},
+	{
+		"label": "pvs"
+	},
+	{
+		"label": "gwt"
+	},
+	{
+		"label": "opa"
+	},
+	{
+		"label": "hol"
+	},
+	{
+		"label": "hsp"
+	},
+	{
+		"label": "awr"
+	},
+	{
+		"label": "now"
+	},
+	{
+		"label": "iar"
+	},
+	{
+		"label": "tye"
+	},
+	{
+		"label": "joe"
+	},
+	{
+		"label": "nim"
+	},
+	{
+		"label": "c++"
+	},
+	{
+		"label": "lua"
+	},
+	{
+		"label": "tex"
+	},
+	{
+		"label": "ats"
+	},
+	{
+		"label": "yii2"
+	},
+	{
+		"label": "sass"
+	},
+	{
+		"label": "mean"
+	},
+	{
+		"label": "modx"
+	},
+	{
+		"label": "mule"
+	},
+	{
+		"label": "tla+"
+	},
+	{
+		"label": "less"
+	},
+	{
+		"label": "lamp"
+	},
+	{
+		"label": "keil"
+	},
+	{
+		"label": "kate"
+	},
+	{
+		"label": "buck"
+	},
+	{
+		"label": "sdcc"
+	},
+	{
+		"label": "nesc"
+	},
+	{
+		"label": "cake"
+	},
+	{
+		"label": "node"
+	},
+	{
+		"label": "test"
+	},
+	{
+		"label": "jenv"
+	},
+	{
+		"label": "java"
+	},
+	{
+		"label": "nova"
+	},
+	{
+		"label": "hugo"
+	},
+	{
+		"label": "wyam"
+	},
+	{
+		"label": "nwjs"
+	},
+	{
+		"label": "hexo"
+	},
+	{
+		"label": "helm"
+	},
+	{
+		"label": "tags"
+	},
+	{
+		"label": "otto"
+	},
+	{
+		"label": "pawn"
+	},
+	{
+		"label": "perl"
+	},
+	{
+		"label": "xill"
+	},
+	{
+		"label": "ggts"
+	},
+	{
+		"label": "geth"
+	},
+	{
+		"label": "gcov"
+	},
+	{
+		"label": "font"
+	},
+	{
+		"label": "venv"
+	},
+	{
+		"label": "flex"
+	},
+	{
+		"label": "xojo"
+	},
+	{
+		"label": "agda"
+	},
+	{
+		"label": "yalc"
+	},
+	{
+		"label": "docz"
+	},
+	{
+		"label": "yarn"
+	},
+	{
+		"label": "vvvv"
+	},
+	{
+		"label": "root"
+	},
+	{
+		"label": "diff"
+	},
+	{
+		"label": "vlab"
+	},
+	{
+		"label": "data"
+	},
+	{
+		"label": "dart"
+	},
+	{
+		"label": "ros2"
+	},
+	{
+		"label": "snap"
+	},
+	{
+		"label": "ruby"
+	},
+	{
+		"label": "rust"
+	},
+	{
+		"label": "cuda"
+	},
+	{
+		"label": "text"
+	},
+	{
+		"label": "jspm"
+	},
+	{
+		"label": "bluej"
+	},
+	{
+		"label": "bazel"
+	},
+	{
+		"label": "moban"
+	},
+	{
+		"label": "meson"
+	},
+	{
+		"label": "batch"
+	},
+	{
+		"label": "nanoc"
+	},
+	{
+		"label": "maven"
+	},
+	{
+		"label": "basic"
+	},
+	{
+		"label": "scons"
+	},
+	{
+		"label": "conan"
+	},
+	{
+		"label": "vuejs"
+	},
+	{
+		"label": "nette"
+	},
+	{
+		"label": "scala"
+	},
+	{
+		"label": "adobe"
+	},
+	{
+		"label": "ninja"
+	},
+	{
+		"label": "linux"
+	},
+	{
+		"label": "nohup"
+	},
+	{
+		"label": "bloop"
+	},
+	{
+		"label": "tower"
+	},
+	{
+		"label": "ocaml"
+	},
+	{
+		"label": "latex"
+	},
+	{
+		"label": "xcode"
+	},
+	{
+		"label": "turbo"
+	},
+	{
+		"label": "docfx"
+	},
+	{
+		"label": "sonar"
+	},
+	{
+		"label": "audio"
+	},
+	{
+		"label": "kicad"
+	},
+	{
+		"label": "orcad"
+	},
+	{
+		"label": "bower"
+	},
+	{
+		"label": "kaldi"
+	},
+	{
+		"label": "julia"
+	},
+	{
+		"label": "patch"
+	},
+	{
+		"label": "perl6"
+	},
+	{
+		"label": "typo3"
+	},
+	{
+		"label": "jboss"
+	},
+	{
+		"label": "swift"
+	},
+	{
+		"label": "eagle"
+	},
+	{
+		"label": "rider"
+	},
+	{
+		"label": "unity"
+	},
+	{
+		"label": "spark"
+	},
+	{
+		"label": "pico8"
+	},
+	{
+		"label": "elisp"
+	},
+	{
+		"label": "infer"
+	},
+	{
+		"label": "idris"
+	},
+	{
+		"label": "emacs"
+	},
+	{
+		"label": "ember"
+	},
+	{
+		"label": "plone"
+	},
+	{
+		"label": "clean"
+	},
+	{
+		"label": "grunt"
+	},
+	{
+		"label": "renpy"
+	},
+	{
+		"label": "redis"
+	},
+	{
+		"label": "clion"
+	},
+	{
+		"label": "video"
+	},
+	{
+		"label": "extjs"
+	},
+	{
+		"label": "fancy"
+	},
+	{
+		"label": "godot"
+	},
+	{
+		"label": "putty"
+	},
+	{
+		"label": "react"
+	},
+	{
+		"label": "vertx"
+	},
+	{
+		"label": "flask"
+	},
+	{
+		"label": "cmake"
+	},
+	{
+		"label": "rails"
+	},
+	{
+		"label": "stata"
+	},
+	{
+		"label": "games"
+	},
+	{
+		"label": "pydev"
+	},
+	{
+		"label": "xtext"
+	},
+	{
+		"label": "vapor"
+	},
+	{
+		"label": "vcpkg"
+	},
+	{
+		"label": "macos"
+	},
+	{
+		"label": "jgiven"
+	},
+	{
+		"label": "mikroc"
+	},
+	{
+		"label": "bazaar"
+	},
+	{
+		"label": "python"
+	},
+	{
+		"label": "fsharp"
+	},
+	{
+		"label": "meteor"
+	},
+	{
+		"label": "mplabx"
+	},
+	{
+		"label": "metals"
+	},
+	{
+		"label": "racket"
+	},
+	{
+		"label": "bitrix"
+	},
+	{
+		"label": "mdbook"
+	},
+	{
+		"label": "cloud9"
+	},
+	{
+		"label": "matlab"
+	},
+	{
+		"label": "scheme"
+	},
+	{
+		"label": "finale"
+	},
+	{
+		"label": "splunk"
+	},
+	{
+		"label": "goland"
+	},
+	{
+		"label": "stdlib"
+	},
+	{
+		"label": "puppet"
+	},
+	{
+		"label": "stella"
+	},
+	{
+		"label": "redcar"
+	},
+	{
+		"label": "gradle"
+	},
+	{
+		"label": "grails"
+	},
+	{
+		"label": "pulumi"
+	},
+	{
+		"label": "groovy"
+	},
+	{
+		"label": "erlang"
+	},
+	{
+		"label": "retool"
+	},
+	{
+		"label": "zephir"
+	},
+	{
+		"label": "nextjs"
+	},
+	{
+		"label": "strapi"
+	},
+	{
+		"label": "nikola"
+	},
+	{
+		"label": "stylus"
+	},
+	{
+		"label": "defold"
+	},
+	{
+		"label": "ensime"
+	},
+	{
+		"label": "ceylon"
+	},
+	{
+		"label": "backup"
+	},
+	{
+		"label": "delphi"
+	},
+	{
+		"label": "dframe"
+	},
+	{
+		"label": "vaadin"
+	},
+	{
+		"label": "idapro"
+	},
+	{
+		"label": "altium"
+	},
+	{
+		"label": "nuxtjs"
+	},
+	{
+		"label": "images"
+	},
+	{
+		"label": "elixir"
+	},
+	{
+		"label": "codeio"
+	},
+	{
+		"label": "direnv"
+	},
+	{
+		"label": "svelte"
+	},
+	{
+		"label": "octave"
+	},
+	{
+		"label": "django"
+	},
+	{
+		"label": "ionic3"
+	},
+	{
+		"label": "jabref"
+	},
+	{
+		"label": "yeoman"
+	},
+	{
+		"label": "opencv"
+	},
+	{
+		"label": "kotlin"
+	},
+	{
+		"label": "kohana"
+	},
+	{
+		"label": "jboss4"
+	},
+	{
+		"label": "jboss6"
+	},
+	{
+		"label": "kobalt"
+	},
+	{
+		"label": "jekyll"
+	},
+	{
+		"label": "kirby2"
+	},
+	{
+		"label": "ph7cms"
+	},
+	{
+		"label": "dotenv"
+	},
+	{
+		"label": "drupal"
+	},
+	{
+		"label": "anjuta"
+	},
+	{
+		"label": "jigsaw"
+	},
+	{
+		"label": "jmeter"
+	},
+	{
+		"label": "kdiff3"
+	},
+	{
+		"label": "joomla"
+	},
+	{
+		"label": "xilinx"
+	},
+	{
+		"label": "vivado"
+	},
+	{
+		"label": "packer"
+	},
+	{
+		"label": "csharp"
+	},
+	{
+		"label": "symfony"
+	},
+	{
+		"label": "ansible"
+	},
+	{
+		"label": "bricxcc"
+	},
+	{
+		"label": "cakephp"
+	},
+	{
+		"label": "dropbox"
+	},
+	{
+		"label": "qooxdoo"
+	},
+	{
+		"label": "kentico"
+	},
+	{
+		"label": "angular"
+	},
+	{
+		"label": "typings"
+	},
+	{
+		"label": "phalcon"
+	},
+	{
+		"label": "phoenix"
+	},
+	{
+		"label": "swiftpm"
+	},
+	{
+		"label": "android"
+	},
+	{
+		"label": "drupal7"
+	},
+	{
+		"label": "labview"
+	},
+	{
+		"label": "drupal8"
+	},
+	{
+		"label": "umbraco"
+	},
+	{
+		"label": "laravel"
+	},
+	{
+		"label": "amplify"
+	},
+	{
+		"label": "lazarus"
+	},
+	{
+		"label": "eclipse"
+	},
+	{
+		"label": "phpunit"
+	},
+	{
+		"label": "igorpro"
+	},
+	{
+		"label": "azurite"
+	},
+	{
+		"label": "wakanda"
+	},
+	{
+		"label": "pimcore"
+	},
+	{
+		"label": "windows"
+	},
+	{
+		"label": "vagrant"
+	},
+	{
+		"label": "polymer"
+	},
+	{
+		"label": "lithium"
+	},
+	{
+		"label": "dbeaver"
+	},
+	{
+		"label": "logtalk"
+	},
+	{
+		"label": "lsspice"
+	},
+	{
+		"label": "ltspice"
+	},
+	{
+		"label": "prepros"
+	},
+	{
+		"label": "stellar"
+	},
+	{
+		"label": "haskell"
+	},
+	{
+		"label": "magento"
+	},
+	{
+		"label": "gitbook"
+	},
+	{
+		"label": "a-frame"
+	},
+	{
+		"label": "ncrunch"
+	},
+	{
+		"label": "archive"
+	},
+	{
+		"label": "cordova"
+	},
+	{
+		"label": "clojure"
+	},
+	{
+		"label": "flatpak"
+	},
+	{
+		"label": "pycharm"
+	},
+	{
+		"label": "cs-cart"
+	},
+	{
+		"label": "mercury"
+	},
+	{
+		"label": "crystal"
+	},
+	{
+		"label": "appcode"
+	},
+	{
+		"label": "flutter"
+	},
+	{
+		"label": "fuelphp"
+	},
+	{
+		"label": "freecad"
+	},
+	{
+		"label": "bitrise"
+	},
+	{
+		"label": "fortran"
+	},
+	{
+		"label": "seamgen"
+	},
+	{
+		"label": "crbasic"
+	},
+	{
+		"label": "codekit"
+	},
+	{
+		"label": "modelsim"
+	},
+	{
+		"label": "valgrind"
+	},
+	{
+		"label": "meteorjs"
+	},
+	{
+		"label": "textmate"
+	},
+	{
+		"label": "sketchup"
+	},
+	{
+		"label": "shopware"
+	},
+	{
+		"label": "crossbar"
+	},
+	{
+		"label": "database"
+	},
+	{
+		"label": "magento2"
+	},
+	{
+		"label": "netbeans"
+	},
+	{
+		"label": "magento1"
+	},
+	{
+		"label": "composer"
+	},
+	{
+		"label": "blackbox"
+	},
+	{
+		"label": "basercms"
+	},
+	{
+		"label": "solidity"
+	},
+	{
+		"label": "lilypond"
+	},
+	{
+		"label": "thinkphp"
+	},
+	{
+		"label": "docpress"
+	},
+	{
+		"label": "rubymine"
+	},
+	{
+		"label": "virtuoso"
+	},
+	{
+		"label": "craftcms"
+	},
+	{
+		"label": "e2studio"
+	},
+	{
+		"label": "easybook"
+	},
+	{
+		"label": "obsidian"
+	},
+	{
+		"label": "espresso"
+	},
+	{
+		"label": "exercism"
+	},
+	{
+		"label": "reasonml"
+	},
+	{
+		"label": "bookdown"
+	},
+	{
+		"label": "opencart"
+	},
+	{
+		"label": "fastlane"
+	},
+	{
+		"label": "openfoam"
+	},
+	{
+		"label": "firebase"
+	},
+	{
+		"label": "floobits"
+	},
+	{
+		"label": "synology"
+	},
+	{
+		"label": "cocos2dx"
+	},
+	{
+		"label": "arcanist"
+	},
+	{
+		"label": "goodsync"
+	},
+	{
+		"label": "webstorm"
+	},
+	{
+		"label": "justcode"
+	},
+	{
+		"label": "twincat3"
+	},
+	{
+		"label": "particle"
+	},
+	{
+		"label": "cakephp2"
+	},
+	{
+		"label": "homebrew"
+	},
+	{
+		"label": "cfwheels"
+	},
+	{
+		"label": "cakephp3"
+	},
+	{
+		"label": "sugarcrm"
+	},
+	{
+		"label": "calabash"
+	},
+	{
+		"label": "pinegrow"
+	},
+	{
+		"label": "pimcore5"
+	},
+	{
+		"label": "carthage"
+	},
+	{
+		"label": "phpstorm"
+	},
+	{
+		"label": "archives"
+	},
+	{
+		"label": "intellij"
+	},
+	{
+		"label": "inforcrm"
+	},
+	{
+		"label": "inforcms"
+	},
+	{
+		"label": "pimcore4"
+	},
+	{
+		"label": "compodoc"
+	},
+	{
+		"label": "iar_ewarm"
+	},
+	{
+		"label": "jboss-6-x"
+	},
+	{
+		"label": "slickedit"
+	},
+	{
+		"label": "mercurial"
+	},
+	{
+		"label": "jetbrains"
+	},
+	{
+		"label": "xilinxise"
+	},
+	{
+		"label": "1c-bitrix"
+	},
+	{
+		"label": "snapcraft"
+	},
+	{
+		"label": "momentics"
+	},
+	{
+		"label": "testinfra"
+	},
+	{
+		"label": "concrete5"
+	},
+	{
+		"label": "scrivener"
+	},
+	{
+		"label": "oxideshop"
+	},
+	{
+		"label": "greenfoot"
+	},
+	{
+		"label": "assembler"
+	},
+	{
+		"label": "magic-xpa"
+	},
+	{
+		"label": "diskimage"
+	},
+	{
+		"label": "purebasic"
+	},
+	{
+		"label": "ballerina"
+	},
+	{
+		"label": "clion+all"
+	},
+	{
+		"label": "clion+iml"
+	},
+	{
+		"label": "genero4gl"
+	},
+	{
+		"label": "cocoapods"
+	},
+	{
+		"label": "notepadpp"
+	},
+	{
+		"label": "fusetools"
+	},
+	{
+		"label": "sonarqube"
+	},
+	{
+		"label": "kdevelop4"
+	},
+	{
+		"label": "appengine"
+	},
+	{
+		"label": "fontforge"
+	},
+	{
+		"label": "liberosoc"
+	},
+	{
+		"label": "qtcreator"
+	},
+	{
+		"label": "wordpress"
+	},
+	{
+		"label": "autotools"
+	},
+	{
+		"label": "episerver"
+	},
+	{
+		"label": "terraform"
+	},
+	{
+		"label": "smalltalk"
+	},
+	{
+		"label": "leiningen"
+	},
+	{
+		"label": "cypressio"
+	},
+	{
+		"label": "appbuilder"
+	},
+	{
+		"label": "octobercms"
+	},
+	{
+		"label": "executable"
+	},
+	{
+		"label": "lemonstand"
+	},
+	{
+		"label": "codeblocks"
+	},
+	{
+		"label": "virtualenv"
+	},
+	{
+		"label": "terragrunt"
+	},
+	{
+		"label": "sourcepawn"
+	},
+	{
+		"label": "webmethods"
+	},
+	{
+		"label": "komodoedit"
+	},
+	{
+		"label": "dotnetcore"
+	},
+	{
+		"label": "keystonejs"
+	},
+	{
+		"label": "freepascal"
+	},
+	{
+		"label": "standardml"
+	},
+	{
+		"label": "commonlisp"
+	},
+	{
+		"label": "salesforce"
+	},
+	{
+		"label": "purescript"
+	},
+	{
+		"label": "goland+all"
+	},
+	{
+		"label": "sam+config"
+	},
+	{
+		"label": "localstack"
+	},
+	{
+		"label": "bittorrent"
+	},
+	{
+		"label": "goland+iml"
+	},
+	{
+		"label": "compressed"
+	},
+	{
+		"label": "darteditor"
+	},
+	{
+		"label": "chocolatey"
+	},
+	{
+		"label": "processing"
+	},
+	{
+		"label": "prestashop"
+	},
+	{
+		"label": "werckercli"
+	},
+	{
+		"label": "powershell"
+	},
+	{
+		"label": "serverless"
+	},
+	{
+		"label": "mavensmate"
+	},
+	{
+		"label": "aspnetcore"
+	},
+	{
+		"label": "platformio"
+	},
+	{
+		"label": "jdeveloper"
+	},
+	{
+		"label": "labviewnxg"
+	},
+	{
+		"label": "dotfilessh"
+	},
+	{
+		"label": "zukencr8000"
+	},
+	{
+		"label": "senchatouch"
+	},
+	{
+		"label": "appcode+all"
+	},
+	{
+		"label": "appcode+iml"
+	},
+	{
+		"label": "atmelstudio"
+	},
+	{
+		"label": "wintersmith"
+	},
+	{
+		"label": "codeigniter"
+	},
+	{
+		"label": "codesniffer"
+	},
+	{
+		"label": "reactnative"
+	},
+	{
+		"label": "spreadsheet"
+	},
+	{
+		"label": "compression"
+	},
+	{
+		"label": "pycharm+iml"
+	},
+	{
+		"label": "pycharm+all"
+	},
+	{
+		"label": "crashlytics"
+	},
+	{
+		"label": "dotsettings"
+	},
+	{
+		"label": "psoccreator"
+	},
+	{
+		"label": "storybookjs"
+	},
+	{
+		"label": "progressabl"
+	},
+	{
+		"label": "visualbasic"
+	},
+	{
+		"label": "sublimetext"
+	},
+	{
+		"label": "dreamweaver"
+	},
+	{
+		"label": "flexbuilder"
+	},
+	{
+		"label": "forcedotcom"
+	},
+	{
+		"label": "forgegradle"
+	},
+	{
+		"label": "turbogears2"
+	},
+	{
+		"label": "tortoisegit"
+	},
+	{
+		"label": "libreoffice"
+	},
+	{
+		"label": "symphonycms"
+	},
+	{
+		"label": "oracleforms"
+	},
+	{
+		"label": "synopsysvcs"
+	},
+	{
+		"label": "theos-tweak"
+	},
+	{
+		"label": "textpattern"
+	},
+	{
+		"label": "monodevelop"
+	},
+	{
+		"label": "objective-c"
+	},
+	{
+		"label": "datarecovery"
+	},
+	{
+		"label": "testcomplete"
+	},
+	{
+		"label": "nativescript"
+	},
+	{
+		"label": "ansibletower"
+	},
+	{
+		"label": "apachehadoop"
+	},
+	{
+		"label": "actionscript"
+	},
+	{
+		"label": "salesforcedx"
+	},
+	{
+		"label": "aptanastudio"
+	},
+	{
+		"label": "lighthouseci"
+	},
+	{
+		"label": "xilinxvivado"
+	},
+	{
+		"label": "php-cs-fixer"
+	},
+	{
+		"label": "rubymine+iml"
+	},
+	{
+		"label": "rubymine+all"
+	},
+	{
+		"label": "certificates"
+	},
+	{
+		"label": "chefcookbook"
+	},
+	{
+		"label": "webstorm+iml"
+	},
+	{
+		"label": "webstorm+all"
+	},
+	{
+		"label": "cocoscreator"
+	},
+	{
+		"label": "coffeescript"
+	},
+	{
+		"label": "intellij+iml"
+	},
+	{
+		"label": "silverstripe"
+	},
+	{
+		"label": "unrealengine"
+	},
+	{
+		"label": "intellij+all"
+	},
+	{
+		"label": "visualstudio"
+	},
+	{
+		"label": "eiffelstudio"
+	},
+	{
+		"label": "flashbuilder"
+	},
+	{
+		"label": "phpstorm+all"
+	},
+	{
+		"label": "phpstorm+iml"
+	},
+	{
+		"label": "jetbrains+all"
+	},
+	{
+		"label": "apachecordova"
+	},
+	{
+		"label": "xamarinstudio"
+	},
+	{
+		"label": "homeassistant"
+	},
+	{
+		"label": "playframework"
+	},
+	{
+		"label": "premake-gmake"
+	},
+	{
+		"label": "jetbrains+iml"
+	},
+	{
+		"label": "androidstudio"
+	},
+	{
+		"label": "pulumi+stacks"
+	},
+	{
+		"label": "circuitpython"
+	},
+	{
+		"label": "zendframework"
+	},
+	{
+		"label": "pythonvanilla"
+	},
+	{
+		"label": "openframeworks"
+	},
+	{
+		"label": "typo3-composer"
+	},
+	{
+		"label": "robotframework"
+	},
+	{
+		"label": "jboss-4-2-3-ga"
+	},
+	{
+		"label": "phpcodesniffer"
+	},
+	{
+		"label": "librarian-chef"
+	},
+	{
+		"label": "konyvisualizer"
+	},
+	{
+		"label": "azurefunctions"
+	},
+	{
+		"label": "xcodeinjection"
+	},
+	{
+		"label": "rhodesrhomobile"
+	},
+	{
+		"label": "microsoftoffice"
+	},
+	{
+		"label": "alteraquartusii"
+	},
+	{
+		"label": "soliditytruffle"
+	},
+	{
+		"label": "oxygenxmleditor"
+	},
+	{
+		"label": "puppet-librarian"
+	},
+	{
+		"label": "elasticbeanstalk"
+	},
+	{
+		"label": "automationstudio"
+	},
+	{
+		"label": "autotools+strict"
+	},
+	{
+		"label": "jupyternotebooks"
+	},
+	{
+		"label": "tarmainstallmate"
+	},
+	{
+		"label": "expressionengine"
+	},
+	{
+		"label": "visualstudiocode"
+	},
+	{
+		"label": "archlinuxpackages"
+	},
+	{
+		"label": "advancedinstaller"
+	},
+	{
+		"label": "compressedarchive"
+	},
+	{
+		"label": "codecomposerstudio"
+	},
+	{
+		"label": "swiftpackagemanager"
+	},
+	{
+		"label": "hyperledgercomposer"
+	},
+	{
+		"label": "adventuregamestudio"
+	},
+	{
+		"label": "appceleratortitanium"
+	},
+	{
+		"label": "vrealizeorchestrator"
+	},
+	{
+		"label": "iarembeddedworkbench"
+	},
+	{
+		"label": "metaprogrammingsystem"
+	},
+	{
+		"label": "nodechakratimetraveldebug"
+	},
+	{
+		"label": "openframeworks+visualstudio"
+	}
+]

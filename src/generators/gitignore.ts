@@ -2,9 +2,14 @@ import axios from 'axios';
 import * as fs from 'fs';
 import * as path from 'path';
 import * as vscode from 'vscode';
+import * as quickPickItems from '../data/gitignore-templates.json';
 import { PromptType, showPrompt } from '../utils/prompt';
 
-function generatePicker(items: []) {
+interface QuickPickItems {
+    label: string;
+}
+
+function generatePicker(items: QuickPickItems[]) {
     const picker = vscode.window.createQuickPick();
 
     picker.items = items!;
@@ -31,17 +36,8 @@ function generatePicker(items: []) {
     });
 }
 
-async function fetchDropDownTemplates(): Promise<[] | null> {
+async function fetchDropDownTemplates(): Promise<QuickPickItems[] | null> {
     try {
-        showPrompt(PromptType.info, 'Fetching Select Types...');
-        const { data } = await axios.get(
-            'https://www.toptal.com/developers/gitignore/dropdown/templates.json',
-        );
-
-        const quickPickItems = data.map((_data: { id: string }) => ({
-            label: _data.id,
-        }));
-
         return quickPickItems;
     } catch (error) {
         showPrompt(
@@ -66,10 +62,11 @@ async function generateGitIgnoreFile(items: string[]) {
             const filePath = path.join(rootPath, '/.gitignore');
             fs.appendFileSync(filePath, gitignoreContents);
         } else {
-            await vscode.workspace.openTextDocument({
+            const textDocument = await vscode.workspace.openTextDocument({
                 content: gitignoreContents,
                 language: 'plaintext',
             });
+            vscode.window.showTextDocument(textDocument);
         }
         showPrompt(PromptType.success, 'Generated .gitignore file');
     } catch (error: any) {
