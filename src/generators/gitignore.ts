@@ -59,12 +59,19 @@ async function generateGitIgnoreFile(items: string[]) {
             ',',
         )}`;
         const { data: gitignoreContents } = await axios.get(URL);
-        const rootPath = vscode.workspace.rootPath;
+
+        const rootPath = vscode.workspace.workspaceFolders?.[0]?.uri?.path;
+
         if (rootPath) {
-            const filePath = path.join(rootPath, '.gitignore');
+            const filePath = path.join(rootPath, '/.gitignore');
             fs.appendFileSync(filePath, gitignoreContents);
-            showPrompt(PromptType.success, 'Generated .gitignore file');
+        } else {
+            await vscode.workspace.openTextDocument({
+                content: gitignoreContents,
+                language: 'plaintext',
+            });
         }
+        showPrompt(PromptType.success, 'Generated .gitignore file');
     } catch (error: any) {
         showPrompt(
             PromptType.error,
