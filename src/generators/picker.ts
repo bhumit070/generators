@@ -19,7 +19,7 @@ async function pickFolderPath(): Promise<string> {
                 canSelectFolders: true,
                 canSelectFiles: false,
                 canSelectMany: false,
-                openLabel: 'Select a folder to generate a template',
+                openLabel: 'Select',
                 title: 'Select a folder to generate a template',
             });
     const folderPath = folder && folder[0].path;
@@ -59,26 +59,21 @@ export async function handlePicker() {
                 vscode.window.showInformationMessage('Cloning the repo...');
                 cp.execSync(`git clone ${repoURL} ${folderPath}/${projectName}`);
                 const gitFile = vscode.Uri.file(`${folderPath}/${projectName}/.git`);
-                await vscode.workspace.fs.delete(gitFile, { recursive: true, useTrash: false });    
-
+                await vscode.workspace.fs.delete(gitFile, { recursive: true, useTrash: false });
                 const packageJson = JSON.parse(fs.readFileSync(`${folderPath}/${projectName}/package.json`, 'utf8'));
                 packageJson.name = projectName;
                 fs.writeFileSync(`${folderPath}/${projectName}/package.json`, JSON.stringify(packageJson, null, 2));
-
-                showPrompt(PromptType.success, 'Successfully cloned the repo.');
+                vscode.window
+                    .showInformationMessage('Successfully generated template, Do you want to open it?', "Yes", "No" )
+                    .then((isOpenClonedRepo) => {
+                        if(isOpenClonedRepo === 'Yes') {
+                            vscode.commands.executeCommand('vscode.openFolder', vscode.Uri.file(`${folderPath}/${projectName}`));
+                        }
+                    });
             } catch (error) {
                 console.log(error);
                 showPrompt(PromptType.error, 'Error while cloning the repo');
             }
-            vscode.window
-            .showInformationMessage('Template generated successfully, Do you want to open it?', "Yes", "No" )
-            .then((isOpenClonedRepo) => {
-                if(isOpenClonedRepo === 'Yes') {
-                    vscode.commands.executeCommand('vscode.openFolder', vscode.Uri.file(`${folderPath}/${projectName}`));
-                }
-            });
-            
-            
             break;
 
         default:
